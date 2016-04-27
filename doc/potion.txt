@@ -1,0 +1,27 @@
+*potion.txt* A short multi line description of your plugin
+
+===============================================================================
+CONTENTS                                                               *potion*
+
+    1. Intro ................................................... |potion-intro|
+    2. Requirements ..................................... |potion-requirements|
+    3. Usage ................................................... |potion-usage|
+    4. Licence ............................................... |potion-licence|
+===============================================================================
+1. Intro                                                         *potion-intro*
+
+Overview of plugin
+
+2. Requirements                                           *potion-requirements*
+
+What additional programs are required to run the plugin
+
+3. Usage                                                         *potion-usage*
+
+How to use the plugin. What functions does it give the user?
+
+4. Licence                                                     *potion-licence*
+
+This is open source make sure to include a licence
+
+vim:ft=help
