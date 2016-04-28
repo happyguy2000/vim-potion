@@ -2,7 +2,7 @@ if exists("b:current_syntax")
     finish
 endif
 
-"echom "Our syntax highlighting code will go here."
+echom "Our syntax highlighting code will go here."
 syntax keyword potionKeyword to times
 highlight link potionKeyword Keyword
 
