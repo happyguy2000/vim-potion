@@ -13,4 +13,7 @@ syntax keyword potionFunction print join string
 highlight link potionKeyword Keyword
 highlight link potionFunction Function
 
+syntax match potionComment "\v#.*$"
+highlight link potionComment Comment
+
 let b:current_syntax = "potion"
