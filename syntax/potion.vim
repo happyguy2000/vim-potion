@@ -32,4 +32,7 @@ highlight link potionOperator Operator
 syntax region potionString start=/\v"/ skip=/\v\\./ end=/\v"/
 highlight link potionString String
 
+syntax region potionString start=/\v'/ skip=/\v\\./ end=/\v'/
+highlight link potionString String
+
 let b:current_syntax = "potion"
