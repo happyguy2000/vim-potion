@@ -1,0 +1,100 @@
+Person print = ():('My name is ', /name, '.') join print.
+print(John)
+Person = class: /name, /age, /sex.
+Person = class: /name, /age, /sex.
+Person print = ():
+Person = class: /name, /age, /sex.
+Person = class: /name, /age, /sex.
+Person = class: /name, /age, /sex.
+Person print = ():
+Person = class: /name, /age, /sex.
+Person print = ():('My name is ', /name, '.') join print.
+Person = class: /name, /age, /sex.
+Person = class: /name, /age, /sex.
+Person print = ():
+Person = class: /name, /age, /sex.
+Person = class: /name, /age, /sex.
+Person = class: /name, /age, /sex.
+Person print = ():
+Person = class: /name, /age, /sex.
+Person print = ():('My name is ', /name, '.') join print.
+print(John)
+
+Person = class: /name, /age, /sex.
+Person = class: /name, /age, /sex.
+Person print = ():
+Person = class: /name, /age, /sex.
+Person = class: /name, /age, /sex.
+Person = class: /name, /age, /sex.
+Person print = ():
+Person = class: /name, /age, /sex.
+Person print = ():('My name is ', /name, '.') join print.
+Person = class: /name, /age, /sex.
+Person = class: /name, /age, /sex.
+Person print = ():
+Person = class: /name, /age, /sex.
+Person = class: /name, /age, /sex.
+Person = class: /name, /age, /sex.
+Person print = ():
+Person = class: /name, /age, /sex.
+Person print = ():('My name is ', /name, '.') join print.
+print(John)
+Person = class: /name, /age, /sex.
+Person = class: /name, /age, /sex.
+Person print = ():
+Person = class: /name, /age, /sex.
+Person = class: /name, /age, /sex.
+Person = class: /name, /age, /sex.
+Person print = ():
+Person = class: /name, /age, /sex.
+Person print = ():('My name is ', /name, '.') join print.
+Person = class: /name, /age, /sex.
+Person = class: /name, /age, /sex.
+Person print = ():
+Person = class: /name, /age, /sex.
+Person = class: /name, /age, /sex.
+Person = class: /name, /age, /sex.
+Person print = ():
+Person = class: /name, /age, /sex.
+Person print = ():('My name is ', /name, '.') join print.
+print(John)
+print('John')
+print("John")
+p = Person ()
+p /name string print
+p /name="John"
+p /name string print
+p/name string print
+p /name string print
+p/name string print
+Policeman = Person class (rank): /rank = rank.
+Policeman print = ():('My name is ', /name, ' and I''m a ', /rank, '.') join print.
+Policeman ('Constable') print
+Guy = Person class (name, age, sex, intelligence): /name = name, /age = age, /sex = sex, /intelligence = intelligence).
+Person = class: /name, /age, /sex.
+Guy = Person (intelligence): /intelligence = intelligence.
+Guy ('dummy') print
+Guy print = (): ('My intelligence level is: ', /intelligence) join print
+Person = class: /name, /age, /sex.
+Guy = Person (intelligence): /intelligence = intelligence.
+Guy print = (): ('My intelligence level is: ', /intelligence) join print.
+Guy print = ():('My intelligence level is: ', /intelligence) join print.
+Guy print = ():('My intelligence level is: ', /intelligence) print.
+Animal = class (species, sex):/species = species, /sex = sex.
+Animal print = ():('Hi. I''m a ', /sex, ' ',/species, '.\n') join print.
+Animal ('dog','boy') print
+Animal ('dog', 'boy') print
+Animal print = ():('Hi. I''m a ', /sex, ' ',/species) join print.
+Animal ('dog', 'boy') print
+Animal print = ():('Hi. I''m a ', /sex, ' ',/species, "\n") join print.
+Animal ('dog', 'boy') print
+Animal print = ():('Hi. I''m a ', /sex, ' ',/species, ".\n") join print.
+Animal ('dog', 'boy') print
+Animal ('dog') print
+Boy = class /size, /color: /size=size /color=color.
+Boy ('big','yellow')
+Boy print = (/size, ' ',/color, ' boy',"\n") join print
+Boy print = :(/size, ' ',/color, ' boy',"\n") join print.
+Boy print = ():(/size, ' ',/color, ' boy',"\n") join print.
+Boy ('big','yellow') print
+Boy ('big','yellow') print.
